@@ -41,7 +41,7 @@ status-website:
   logoUrl: https://kakikou.app/newkakikoulogo.webp
   name: KakikouAppsStatus
   introTitle: "KakikouApps Status Page"
-  introMessage: このページはKakikouAppsの各アプリやサーバーのステータスを確認できます
+  introMessage: KakikouAppsの各アプリやサーバーのステータスを確認できます
   navbar:
     - title: Status
       href: /
