@@ -5,9 +5,9 @@ repo: status # The name of this repository
 sites:
   - name: Kakikou.app
     url: https://kakikou.app
-  - name: Bookshelf-Frontend
+  - name: 本棚
     url: $BS_F
-  - name: Bookshelf-API
+  - name: 本棚(API)
     url: $BOOKSHELF_API
   - name: Knet
     url: $KNET
