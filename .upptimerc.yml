@@ -11,8 +11,6 @@ sites:
     url: $BOOKSHELF_API
   - name: Knet
     url: $KNET
-  - name: Knet-API
-    url: $KNET_API
   - name: Kexus
     url: $KEXUS
   - name: Solocord
