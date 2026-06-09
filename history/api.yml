@@ -1,7 +1,7 @@
 url: $BOOKSHELF_API
-status: up
-code: 200
-responseTime: 573
-lastUpdated: 2026-06-09T11:29:30.357Z
+status: down
+code: 415
+responseTime: 365
+lastUpdated: 2026-06-09T20:32:45.247Z
 startTime: 2026-05-31T03:24:34.210Z
 generator: Upptime <https://github.com/upptime/upptime>
