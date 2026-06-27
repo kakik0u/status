@@ -1,7 +1,7 @@
 url: $KLINK
-status: down
-code: 415
-responseTime: 341
-lastUpdated: 2026-06-27T16:53:35.408Z
+status: up
+code: 200
+responseTime: 487
+lastUpdated: 2026-06-27T17:50:20.180Z
 startTime: 2026-05-31T03:20:48.408Z
 generator: Upptime <https://github.com/upptime/upptime>
