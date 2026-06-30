@@ -1,7 +1,7 @@
 url: $CB
-status: up
-code: 200
-responseTime: 287
-lastUpdated: 2026-06-29T23:52:33.241Z
+status: down
+code: 415
+responseTime: 412
+lastUpdated: 2026-06-30T01:29:06.845Z
 startTime: 2026-05-31T03:20:49.740Z
 generator: Upptime <https://github.com/upptime/upptime>
