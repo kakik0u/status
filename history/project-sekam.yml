@@ -1,7 +1,7 @@
 url: $SEKAM
-status: up
-code: 200
-responseTime: 649
-lastUpdated: 2026-07-01T06:26:49.937Z
+status: down
+code: 415
+responseTime: 750
+lastUpdated: 2026-07-01T21:01:31.961Z
 startTime: 2026-05-31T03:20:45.652Z
 generator: Upptime <https://github.com/upptime/upptime>
