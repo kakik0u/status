@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/kakikou.app.ico",
     "slug": "kakikou-app",
     "status": "down",
-    "uptime": "80.01%",
-    "uptimeDay": "81.86%",
-    "uptimeWeek": "76.11%",
-    "uptimeMonth": "78.67%",
-    "uptimeYear": "80.01%",
+    "uptime": "79.75%",
+    "uptimeDay": "81.48%",
+    "uptimeWeek": "74.66%",
+    "uptimeMonth": "78.31%",
+    "uptimeYear": "79.75%",
     "time": 403,
-    "timeDay": 402,
-    "timeWeek": 395,
+    "timeDay": 411,
+    "timeWeek": 393,
     "timeMonth": 401,
     "timeYear": 403,
     "dailyMinutesDown": {
@@ -43,7 +43,7 @@
       "2026-07-01": 348,
       "2026-07-03": 334,
       "2026-07-02": 6,
-      "2026-07-04": 3
+      "2026-07-04": 162
     }
   },
   {
@@ -51,17 +51,17 @@
     "url": "$BS_F",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "本棚",
-    "status": "down",
-    "uptime": "79.99%",
-    "uptimeDay": "81.90%",
-    "uptimeWeek": "76.14%",
-    "uptimeMonth": "78.65%",
-    "uptimeYear": "79.99%",
-    "time": 395,
-    "timeDay": 389,
-    "timeWeek": 390,
-    "timeMonth": 391,
-    "timeYear": 395,
+    "status": "up",
+    "uptime": "79.73%",
+    "uptimeDay": "81.51%",
+    "uptimeWeek": "74.69%",
+    "uptimeMonth": "78.28%",
+    "uptimeYear": "79.73%",
+    "time": 396,
+    "timeDay": 417,
+    "timeWeek": 391,
+    "timeMonth": 392,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2026-06-02": 133,
       "2026-06-03": 208,
@@ -90,7 +90,7 @@
       "2026-07-01": 348,
       "2026-07-03": 334,
       "2026-07-02": 5,
-      "2026-07-04": 3
+      "2026-07-04": 162
     }
   },
   {
@@ -98,16 +98,16 @@
     "url": "$BOOKSHELF_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "80.01%",
-    "uptimeDay": "81.95%",
-    "uptimeWeek": "76.17%",
-    "uptimeMonth": "78.67%",
-    "uptimeYear": "80.01%",
+    "status": "up",
+    "uptime": "79.75%",
+    "uptimeDay": "81.54%",
+    "uptimeWeek": "74.72%",
+    "uptimeMonth": "78.30%",
+    "uptimeYear": "79.75%",
     "time": 442,
-    "timeDay": 396,
+    "timeDay": 419,
     "timeWeek": 390,
-    "timeMonth": 395,
+    "timeMonth": 396,
     "timeYear": 442,
     "dailyMinutesDown": {
       "2026-06-02": 133,
@@ -137,7 +137,7 @@
       "2026-07-01": 348,
       "2026-07-03": 333,
       "2026-07-02": 5,
-      "2026-07-04": 2
+      "2026-07-04": 162
     }
   },
   {
@@ -145,15 +145,15 @@
     "url": "$KNET",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "knet",
-    "status": "down",
-    "uptime": "80.03%",
-    "uptimeDay": "81.99%",
-    "uptimeWeek": "76.20%",
-    "uptimeMonth": "78.69%",
-    "uptimeYear": "80.03%",
+    "status": "up",
+    "uptime": "79.77%",
+    "uptimeDay": "81.57%",
+    "uptimeWeek": "74.75%",
+    "uptimeMonth": "78.33%",
+    "uptimeYear": "79.77%",
     "time": 391,
-    "timeDay": 375,
-    "timeWeek": 377,
+    "timeDay": 388,
+    "timeWeek": 376,
     "timeMonth": 389,
     "timeYear": 391,
     "dailyMinutesDown": {
@@ -184,7 +184,7 @@
       "2026-07-01": 347,
       "2026-07-03": 333,
       "2026-07-02": 5,
-      "2026-07-04": 2
+      "2026-07-04": 161
     }
   },
   {
@@ -192,17 +192,17 @@
     "url": "$KEXUS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kexus",
-    "status": "down",
-    "uptime": "80.05%",
-    "uptimeDay": "82.04%",
-    "uptimeWeek": "76.23%",
-    "uptimeMonth": "78.71%",
-    "uptimeYear": "80.05%",
-    "time": 340,
-    "timeDay": 346,
-    "timeWeek": 333,
-    "timeMonth": 339,
-    "timeYear": 340,
+    "status": "up",
+    "uptime": "79.79%",
+    "uptimeDay": "81.59%",
+    "uptimeWeek": "74.78%",
+    "uptimeMonth": "78.35%",
+    "uptimeYear": "79.79%",
+    "time": 339,
+    "timeDay": 319,
+    "timeWeek": 327,
+    "timeMonth": 338,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2026-06-02": 132,
       "2026-06-03": 206,
@@ -231,7 +231,7 @@
       "2026-07-01": 346,
       "2026-07-03": 333,
       "2026-07-02": 5,
-      "2026-07-04": 2
+      "2026-07-04": 161
     }
   },
   {
@@ -239,17 +239,17 @@
     "url": "$SC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solocord",
-    "status": "down",
-    "uptime": "80.50%",
-    "uptimeDay": "82.09%",
-    "uptimeWeek": "76.26%",
-    "uptimeMonth": "79.21%",
-    "uptimeYear": "80.50%",
-    "time": 700,
-    "timeDay": 692,
-    "timeWeek": 679,
-    "timeMonth": 699,
-    "timeYear": 700,
+    "status": "up",
+    "uptime": "80.24%",
+    "uptimeDay": "81.62%",
+    "uptimeWeek": "74.81%",
+    "uptimeMonth": "78.85%",
+    "uptimeYear": "80.24%",
+    "time": 701,
+    "timeDay": 722,
+    "timeWeek": 680,
+    "timeMonth": 700,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2026-06-02": 132,
       "2026-06-03": 206,
@@ -278,7 +278,7 @@
       "2026-07-01": 346,
       "2026-07-03": 333,
       "2026-07-02": 4,
-      "2026-07-04": 2
+      "2026-07-04": 161
     }
   },
   {
@@ -286,17 +286,17 @@
     "url": "$SEKAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "project-sekam",
-    "status": "down",
-    "uptime": "80.10%",
-    "uptimeDay": "82.13%",
-    "uptimeWeek": "76.29%",
-    "uptimeMonth": "78.76%",
-    "uptimeYear": "80.10%",
-    "time": 710,
-    "timeDay": 699,
+    "status": "up",
+    "uptime": "79.84%",
+    "uptimeDay": "81.65%",
+    "uptimeWeek": "74.84%",
+    "uptimeMonth": "78.39%",
+    "uptimeYear": "79.84%",
+    "time": 711,
+    "timeDay": 722,
     "timeWeek": 674,
-    "timeMonth": 709,
-    "timeYear": 710,
+    "timeMonth": 710,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2026-06-02": 132,
       "2026-06-03": 205,
@@ -325,7 +325,7 @@
       "2026-07-01": 346,
       "2026-07-03": 332,
       "2026-07-02": 4,
-      "2026-07-04": 1
+      "2026-07-04": 161
     }
   },
   {
@@ -333,17 +333,17 @@
     "url": "$KC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kaki-content",
-    "status": "down",
-    "uptime": "80.12%",
-    "uptimeDay": "82.18%",
-    "uptimeWeek": "76.33%",
-    "uptimeMonth": "78.78%",
-    "uptimeYear": "80.12%",
-    "time": 388,
-    "timeDay": 377,
-    "timeWeek": 378,
-    "timeMonth": 387,
-    "timeYear": 388,
+    "status": "up",
+    "uptime": "79.86%",
+    "uptimeDay": "81.68%",
+    "uptimeWeek": "74.88%",
+    "uptimeMonth": "78.42%",
+    "uptimeYear": "79.86%",
+    "time": 389,
+    "timeDay": 391,
+    "timeWeek": 379,
+    "timeMonth": 388,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2026-06-02": 132,
       "2026-06-03": 205,
@@ -372,7 +372,7 @@
       "2026-07-01": 346,
       "2026-07-03": 331,
       "2026-07-02": 4,
-      "2026-07-04": 1
+      "2026-07-04": 161
     }
   },
   {
@@ -380,15 +380,15 @@
     "url": "$KROME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "k-rome",
-    "status": "down",
-    "uptime": "80.14%",
-    "uptimeDay": "82.22%",
-    "uptimeWeek": "76.35%",
-    "uptimeMonth": "78.80%",
-    "uptimeYear": "80.14%",
+    "status": "up",
+    "uptime": "79.88%",
+    "uptimeDay": "81.71%",
+    "uptimeWeek": "74.91%",
+    "uptimeMonth": "78.44%",
+    "uptimeYear": "79.88%",
     "time": 356,
-    "timeDay": 350,
-    "timeWeek": 342,
+    "timeDay": 354,
+    "timeWeek": 341,
     "timeMonth": 357,
     "timeYear": 356,
     "dailyMinutesDown": {
@@ -419,7 +419,7 @@
       "2026-07-01": 345,
       "2026-07-03": 331,
       "2026-07-02": 4,
-      "2026-07-04": 1
+      "2026-07-04": 160
     }
   },
   {
@@ -427,17 +427,17 @@
     "url": "$KAKIKOUAUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kakikou-auth",
-    "status": "down",
-    "uptime": "80.16%",
-    "uptimeDay": "82.27%",
-    "uptimeWeek": "76.38%",
-    "uptimeMonth": "78.82%",
-    "uptimeYear": "80.16%",
-    "time": 560,
-    "timeDay": 540,
-    "timeWeek": 545,
-    "timeMonth": 560,
-    "timeYear": 560,
+    "status": "up",
+    "uptime": "79.90%",
+    "uptimeDay": "81.73%",
+    "uptimeWeek": "74.94%",
+    "uptimeMonth": "78.46%",
+    "uptimeYear": "79.90%",
+    "time": 563,
+    "timeDay": 649,
+    "timeWeek": 555,
+    "timeMonth": 564,
+    "timeYear": 563,
     "dailyMinutesDown": {
       "2026-06-02": 131,
       "2026-06-03": 204,
@@ -466,7 +466,7 @@
       "2026-07-01": 344,
       "2026-07-03": 331,
       "2026-07-02": 3,
-      "2026-07-04": 1
+      "2026-07-04": 160
     }
   },
   {
@@ -474,15 +474,15 @@
     "url": "$KLINK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kakikou-link",
-    "status": "down",
-    "uptime": "80.18%",
-    "uptimeDay": "82.31%",
-    "uptimeWeek": "76.42%",
-    "uptimeMonth": "78.85%",
-    "uptimeYear": "80.18%",
+    "status": "up",
+    "uptime": "79.92%",
+    "uptimeDay": "81.76%",
+    "uptimeWeek": "74.97%",
+    "uptimeMonth": "78.48%",
+    "uptimeYear": "79.92%",
     "time": 385,
-    "timeDay": 354,
-    "timeWeek": 380,
+    "timeDay": 364,
+    "timeWeek": 377,
     "timeMonth": 384,
     "timeYear": 385,
     "dailyMinutesDown": {
@@ -513,7 +513,7 @@
       "2026-07-01": 344,
       "2026-07-03": 330,
       "2026-07-02": 3,
-      "2026-07-04": 0
+      "2026-07-04": 160
     }
   },
   {
@@ -539,14 +539,14 @@
     "url": "$CB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-cb",
-    "status": "down",
-    "uptime": "80.20%",
-    "uptimeDay": "82.36%",
-    "uptimeWeek": "76.45%",
-    "uptimeMonth": "78.87%",
-    "uptimeYear": "80.20%",
+    "status": "up",
+    "uptime": "79.94%",
+    "uptimeDay": "81.78%",
+    "uptimeWeek": "75.00%",
+    "uptimeMonth": "78.50%",
+    "uptimeYear": "79.94%",
     "time": 358,
-    "timeDay": 355,
+    "timeDay": 363,
     "timeWeek": 349,
     "timeMonth": 358,
     "timeYear": 358,
@@ -578,7 +578,7 @@
       "2026-07-01": 344,
       "2026-07-03": 330,
       "2026-07-02": 3,
-      "2026-07-04": 0
+      "2026-07-04": 160
     }
   }
 ]
