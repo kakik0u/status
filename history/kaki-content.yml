@@ -1,7 +1,7 @@
 url: $KC
-status: up
-code: 200
-responseTime: 249
-lastUpdated: 2026-07-03T23:55:05.809Z
+status: down
+code: 415
+responseTime: 359
+lastUpdated: 2026-07-04T04:51:58.701Z
 startTime: 2026-05-31T03:20:46.408Z
 generator: Upptime <https://github.com/upptime/upptime>
