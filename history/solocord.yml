@@ -1,7 +1,7 @@
 url: $SC
-status: up
-code: 200
-responseTime: 794
-lastUpdated: 2026-07-04T07:32:24.524Z
+status: down
+code: 415
+responseTime: 721
+lastUpdated: 2026-07-04T15:11:33.793Z
 startTime: 2026-05-31T03:20:44.715Z
 generator: Upptime <https://github.com/upptime/upptime>
