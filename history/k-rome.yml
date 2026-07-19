@@ -1,7 +1,7 @@
 url: $KROME
-status: up
-code: 200
-responseTime: 240
-lastUpdated: 2026-07-19T17:32:52.922Z
+status: down
+code: 415
+responseTime: 320
+lastUpdated: 2026-07-19T18:33:32.973Z
 startTime: 2026-05-31T03:20:46.971Z
 generator: Upptime <https://github.com/upptime/upptime>
