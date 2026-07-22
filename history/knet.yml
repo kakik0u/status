@@ -1,7 +1,7 @@
 url: $KNET
-status: down
-code: 415
-responseTime: 355
-lastUpdated: 2026-07-22T10:52:05.337Z
+status: up
+code: 200
+responseTime: 307
+lastUpdated: 2026-07-22T12:17:02.240Z
 startTime: 2026-05-31T03:20:29.244Z
 generator: Upptime <https://github.com/upptime/upptime>
