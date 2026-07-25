@@ -1,7 +1,7 @@
 url: $KAKIKOUAUTH
-status: down
-code: 415
-responseTime: 246
-lastUpdated: 2026-07-25T10:11:45.863Z
+status: up
+code: 200
+responseTime: 730
+lastUpdated: 2026-07-25T11:31:46.746Z
 startTime: 2026-05-31T03:20:47.439Z
 generator: Upptime <https://github.com/upptime/upptime>
