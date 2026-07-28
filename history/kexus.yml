@@ -1,7 +1,7 @@
 url: $KEXUS
-status: down
-code: 415
-responseTime: 367
-lastUpdated: 2026-07-28T06:46:33.507Z
+status: up
+code: 200
+responseTime: 342
+lastUpdated: 2026-07-28T09:27:07.879Z
 startTime: 2026-05-31T03:20:44.219Z
 generator: Upptime <https://github.com/upptime/upptime>
