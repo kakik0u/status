@@ -1,7 +1,7 @@
 url: $OCI
-status: up
-code: 200
-responseTime: 1281
-lastUpdated: 2026-11-06T17:25:00.075Z
+status: down
+code: 530
+responseTime: 76
+lastUpdated: 2026-11-06T22:11:46.469Z
 startTime: 2026-05-31T03:20:49.029Z
 generator: Upptime <https://github.com/upptime/upptime>
